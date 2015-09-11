@@ -45,7 +45,7 @@
 	<?php 
 	//php.net
 	//kuupäev kujul: friday, 11.09.2015
-	echo( date("l"));
+	echo( date("l, j.m.Y e h:i:s") );
 	
 	?>
 	
